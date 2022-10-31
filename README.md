@@ -1,7 +1,10 @@
-<div align=center>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+Emen;I'm+a+poor+programmer;Still+learning;Whenever+i+can)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+Emen;I'm+a+poor+programmer;Still+learning;Whenever+i+can)](https://git.io/typing-svg)
 
+<div align="center">
+  <a href="https://github.com/emenodon">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 <!--
 **emenodon/emenodon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
