@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+Emen;I'm+a+poor+programmer;Still+learning;Whenever+i+can)](https://git.io/typing-svg)
-
-### Hi there 👋
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+Emen;I'm+a+poor+programmer;Still+learning;Whenever+i+can)](https://git.io/typing-svg)
+</div>
 
 <!--
 **emenodon/emenodon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
