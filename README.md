@@ -10,15 +10,6 @@
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
-  <a href="https://www.php.net" target="_blank">
-    <img alt="php" src="https://img.shields.io/badge/Php-D00000?style=for-the-badge&logo=php&logoColor=white">
-  </a>
-  <a href="https://github.com/emenodon" target="_blank">
-    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-150458?style=for-the-badge&logo=bootstrap&logoColor=white">
-  </a>
   <a href="https://www.mysql.com" target="_blank">
     <img alt="Mysql" src="https://img.shields.io/badge/Mysql-2C2D72?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
@@ -27,6 +18,9 @@
   </a>
   <a href="https://www.freebsd.org" target="_blank">
     <img alt="FreeBSD" src="https://img.shields.io/badge/FreeBSD-D00000?style=for-the-badge&logo=freebsd&logoColor=white">
+  </a>
+  <a href="https://cahscyuasgydgte" target="_blank">
+    <img alt="BlackHat" src="https://img.shields.io/badge/wHat-black?style=for-the-badge&logo=redhat&logoColor=white">
   </a>
   
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> -->
