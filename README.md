@@ -1,10 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=I'm+Emen;I'm+a+poor+programmer;Still+learning;Whenever+i+can)](https://git.io/typing-svg)
-
-<div align="center">
-  <a href="https://github.com/emenodon">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=20&lines=I'm+Emen;Still+learning;Whenever+i+can)](https://git.io/typing-svg)
 
 ### Currently Using
   <a href="https://www.python.org" target="_blank">
@@ -17,7 +11,7 @@
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF6F00?style=for-the-badge&logo=laravel&logoColor=white">
   </a>
   <a href="https://www.freebsd.org" target="_blank">
-    <img alt="FreeBSD" src="https://img.shields.io/badge/FreeBSD-D00000?style=for-the-badge&logo=freebsd&logoColor=white">
+    <img alt="BSD" src="https://img.shields.io/badge/BSD-D00000?style=for-the-badge&logo=freebsd&logoColor=white">
   </a>
   <a href="https://cahscyuasgydgte" target="_blank">
     <img alt="BlackHat" src="https://img.shields.io/badge/wHat-black?style=for-the-badge&logo=redhat&logoColor=white">
